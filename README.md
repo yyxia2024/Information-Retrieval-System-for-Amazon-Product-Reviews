@@ -1,1 +1,2 @@
 # Information-Retrieval-System-for-Amazon-Product-Reviews
+This project aims to develop an information retrieval system focused on retrieving pertinent information from an extensive collection of health products in response to user queries. The information retrieval system takes a user query as input and generates output documents that encompass the most relevant information based on the provided query. 
